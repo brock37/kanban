@@ -15,12 +15,16 @@
 </template>
 
 <style lang="css">
+nav {
+  height: 50px;
+}
+
 h1.nav-brand {
   font-size: 24px;
 }
 
 img.account {
-  width: 48px;
-  height: 48px;
+  width: 36px;
+  height: 36px;
 }
 </style>
