@@ -1,5 +1,8 @@
 <template>
-  <div class="home bg-secondary">
+  <div class="home bg-secondary pb-5 d-flex flex-wrap">
+    <taskList></taskList>
+    <taskList></taskList>
+    <taskList></taskList>
     <taskList></taskList>
   </div>
 </template>
