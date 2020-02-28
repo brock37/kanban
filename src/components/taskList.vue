@@ -28,7 +28,16 @@ export default {
 </script>
 
 <style lang="css" scoped>
+.task-list {
+
+    max-width: 90%;
+}
 h3{
   font-size: 14px;
+@media (min-width: 768px) {
+  .task-list{
+    max-width: 33%;
+  }
+
 }
 </style>
