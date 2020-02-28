@@ -34,7 +34,7 @@ export default {
 }
 h3{
   min-height: 50px;
-  box-shadow: 0px 4px 10px rgba(0, 0, 0, 29);
+  box-shadow: 0px 15px 10px -10px rgba(0, 0, 0, 29);
 }
 @media (min-width: 768px) {
   .task-list{
