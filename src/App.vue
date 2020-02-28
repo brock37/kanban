@@ -15,6 +15,10 @@
 </template>
 
 <style lang="css">
+.app {
+  height: 100vh;
+}
+
 nav {
   height: 50px;
 }
