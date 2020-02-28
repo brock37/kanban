@@ -1,9 +1,12 @@
 <template lang="html">
-  <div class="container bg-light mx-auto mt-1 pb-2">
-    <h3 class="bg-primary text-light mx-0">{{ title }}</h3>
-    <task></task>
-    <task></task>
-    <task></task>
+  <div class="task-list bg-light container mt-2 pb-2 px-0 mx-auto">
+    <h3 class="bg-primary text-light d-flex justify-content-center align-items-center">{{ title }}</h3>
+    <div class="container">
+      <task></task>
+      <task></task>
+      <task></task>
+    </div>
+
 
   </div>
 
